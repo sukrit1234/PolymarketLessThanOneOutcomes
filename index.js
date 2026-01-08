@@ -9,7 +9,7 @@ import chalk from "chalk";
 
 ///////////////////////////////////
 /// PARAMETER SECTION
-const TARGET_WALLETS = ["0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b"];
+const TARGET_WALLETS = [];
 const PROCESS_MARKET_PER_LOOP = 20;
 const QUERY_SECOND_AGO = 30;
 const MINIMUM_PRICE_THRESHOLD = 1.0;
